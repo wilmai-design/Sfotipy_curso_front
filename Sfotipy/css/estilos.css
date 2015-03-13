@@ -226,7 +226,6 @@ figure {
   margin-right: 1em;
   margin-bottom: 1em;
   width: 8rem;
-}
-.song:nth-child(even) {
-  margin-right: 0;
+/*&:nth-child(even)
+		margin-right 0*/
 }
