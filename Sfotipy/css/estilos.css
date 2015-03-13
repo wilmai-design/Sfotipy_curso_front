@@ -193,7 +193,7 @@ figure {
 .container {
   padding: 1.4rem;
   font-size: 0;
-  text-aling: center;
+  text-align: center;
 }
 .border-bottom {
   border-bottom: 1px solid #818181;
@@ -218,7 +218,7 @@ figure {
   text-aling: center;
   margin: 0;
   line-height: 3.5em;
-  text-aling: center;
+  text-align: center;
 }
 .song {
   display: inline-block;
