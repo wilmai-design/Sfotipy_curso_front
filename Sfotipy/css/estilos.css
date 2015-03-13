@@ -181,15 +181,52 @@ th {
 }
 body {
   font-size: 16px;
+  font-family: 'Varela Round', sans-serif;
 }
 figure {
   margin: 0;
 }
+.button-menu {
+  position: absolute;
+  top: 50%;
+}
 .container {
-  padding: 1.4em;
+  padding: 1.4rem;
   font-size: 0;
+  text-aling: center;
+}
+.border-bottom {
+  border-bottom: 1px solid #818181;
+}
+.name {
+  color: #333;
+}
+.menu {
+  display: none;
+}
+.relative {
+  position: relative;
+}
+.author {
+  color: #818181;
+}
+.header {
+  height: 3.5em;
+}
+.header .title {
+  font-size: 1.1em;
+  text-aling: center;
+  margin: 0;
+  line-height: 3.5em;
+  text-aling: center;
 }
 .song {
-  width: 8rem;
   display: inline-block;
+  font-size: 1rem;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  width: 8rem;
+}
+.song:nth-child(even) {
+  margin-right: 0;
 }
